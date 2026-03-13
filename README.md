@@ -155,12 +155,6 @@ Refresh the Power BI dashboard to view updated insights.
 - Centralized data storage using PostgreSQL
 - Interactive crime analytics dashboard using Power BI
 
-# Future Improvements
-
-- Integrate real-time crime data streaming
-- Add predictive crime models
-- Deploy dashboard as a web application
-
 # Author
 
 Sonali S
